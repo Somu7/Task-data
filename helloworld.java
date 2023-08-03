@@ -8,4 +8,4 @@ public class HelloWorld {
   }
 }
 
-https://a5592ae356e1f479db188c58ea304bf1-313424805.ap-south-1.elb.amazonaws.com/login
+a5592ae356e1f479db188c58ea304bf1-313424805.ap-south-1.elb.amazonaws.com
